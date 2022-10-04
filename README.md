@@ -18,9 +18,6 @@
 ## Instructions:
 Open index.html
 
-## Video:
-DEMO: https://youtu.be/G8jE49nbL_k
-
 
 
 
